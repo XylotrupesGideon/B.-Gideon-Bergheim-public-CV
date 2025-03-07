@@ -3,20 +3,28 @@
 [Email](mailto:b.bergheim@gmx.de) / [Linkedin](https://www.linkedin.com/in/bruno-gideon-bergheim-b6162b101/)
 
 Navigation:<br>
-[Education](#education) | [Publications](#publications) | [Skills](#skills-and-courses) | [Teaching Experience](#teaching-experience) | [Engagement](#engagement) | [Hobbies](#hobbies-and-interests)
+[Education](#experience) | [Publications](#publications) | [Skills](#skills-and-courses) | [Teaching Experience](#teaching-experience) | [Engagement](#engagement) | [Hobbies](#hobbies-and-interests)
 
-## Education
-
+## Skills
 <hr>
 
-**Post doctoral reasearcher** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(January 2024 - today)_<br>
+
+## Experience
+<hr>
+
+**Post doctoral researcher** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(January 2024 - December 2024)_<br>
 **Bioinformatic Projects in Stem Cell Niche Heterogeniety**
 [AG Bageritz](https://bageritz-lab.org)
+- *Drosophila* behaviour assay automation (Python, ComputerVision)
+- Data Science consulting for laboratory scientists
+- Spatial single cell and NGS data analysis (Python, R)
 <br>
 
 **PhD Thesis** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(March 2019 - January 2023)_<br>
 **Proteomic Analysis of Cnidarian Extracellular Matrix Dynamics during Development** <br>
 _Supervisor:_ [Apl. Prof Suat Özbek](https://www.cos.uni-heidelberg.de/en/research-groups/molecular-evolution-and-genomics/prof-suat-ozbek)
+- Proteome analysis
+- Protein identification & annotation
 <br>
 
 **Master of Science: Molecular Bioscience, [Developmental and Stem Cell Biology](https://www.cos.uni-heidelberg.de/en/teaching-at-cos-heidelberg/master-studium/curriculum)** @[COS, University Heidelberg](https://www.cos.uni-heidelberg.de/en) _(October 2016 - April 2019)_<br>
@@ -27,40 +35,7 @@ _Supervisors:_ [Dr. Annika Guse](https://guselab.de/team/)
 Bachelor Thesis: _Study of the regulation of Wnt target oscillations by β-Catenin stability during mouse somitogenesis._<br>
 _Supervisors:_ [Dr. Alexander Aulehla](https://www.embl.org/groups/aulehla/)
 
-**High School** @[Gymnasium Rodenkirchen, Cologne](https://gymnasium-rodenkirchen.de) (until 2011)
 
-## Publications
-
-**2023**<br>
-
-- Veschgini M, Petersen HO, Suzuki R, Kling S, **Bergheim BG**, Abuillan W, Linke P, Kaufmann
-  S, Burghammer M, Özbek S, Holstein TW, Tanaka M.<br>
-  **Wnt/-Catenin Signaling Controls Spatio-Temporal Elasticity Patterns in Extracellular Matrix during Hydra Morphogenesis.**
-  iScience, 26(4), 106416 (2023) https://doi.org/10.1016/j.isci.2023.106416
-
-- Garg N, Štibler UK, Eismann B, Mercker M, **Bergheim BG**, Linn A, Tuchscherer P, Engel U, Redl S, Marciniak-Czochra A, Holstein TW, Hess MW, Özbek S<br>
-  **Non-muscle myosin II drives critical steps of nematocyst morphogenesis.**<br>
-  iScience, 106291(2023)[10.1016/j.isci.2023.106291](https://doi.org/10.1016/j.isci.2023.106291)
-
-**2021**<br>
-
-- Hofmann, D, Garg, N, Grässle, S, Vanderheiden S, **Bergheim BG**, Bräse S, Jung N, Özbek S.<br>
-  **A small molecule screen identifies novel inhibitors of mechanosensory nematocyst discharge in Hydra.**<br>
-  Sci Rep 11, 20627 (2021). [10.1038/s41598-021-99974-7](https://doi.org/10.1038/s41598-021-99974-7)
-
-**2020**<br>
-
-- Gornik S\*, **Bergheim BG\***, Morel B, Stamatakis A, Foulkes NS, Guse A. <br>
-  **Photoreceptor Diversification Accompanies the Evolution of Anthozoa.**<br>
-  Mol. Biol. Evol. 2020, Nov, doi: [10.1093/molbev/msaa304](https://doi.org/10.1093/molbev/msaa304) <span style="color:gray">(\*shared first authorship)</span>
-
-**2019**<br>
-
-- **Bergheim BG**, Özbek S. <br>
-  **Extracellular matrix and morphogenesis in cnidarians: a tightly knit relationship.**<br>
-  Essays Biochem. 2019 Sep 13;63(3):407-416. doi: [10.1042/EBC20190021](https://doi.org/10.1042/EBC20190021). PMID: 31462530
-  [label](https://www.youtube.com/watch?v%3DPblEBdVLiBo)
-  <br><br>
 
 ## Skills and courses
 
@@ -193,6 +168,38 @@ For my volunteer social service year I went to Uganda to work at the Kiyumbakimu
 
 **Co-founder** @[Masaka Street Children Project](https://masakastreetchildren.wordpress.com) _(since 2012)_<br>
 While I was in Uganda for my social volunteer service I aided a few Ugandan friends to found a small orphanage project which helps street children to attend primary schools.
+
+## Publications
+
+**2023**<br>
+
+- Veschgini M, Petersen HO, Suzuki R, Kling S, **Bergheim BG**, Abuillan W, Linke P, Kaufmann
+  S, Burghammer M, Özbek S, Holstein TW, Tanaka M.<br>
+  **Wnt/-Catenin Signaling Controls Spatio-Temporal Elasticity Patterns in Extracellular Matrix during Hydra Morphogenesis.**
+  iScience, 26(4), 106416 (2023) https://doi.org/10.1016/j.isci.2023.106416
+
+- Garg N, Štibler UK, Eismann B, Mercker M, **Bergheim BG**, Linn A, Tuchscherer P, Engel U, Redl S, Marciniak-Czochra A, Holstein TW, Hess MW, Özbek S<br>
+  **Non-muscle myosin II drives critical steps of nematocyst morphogenesis.**<br>
+  iScience, 106291(2023)[10.1016/j.isci.2023.106291](https://doi.org/10.1016/j.isci.2023.106291)
+
+**2021**<br>
+
+- Hofmann, D, Garg, N, Grässle, S, Vanderheiden S, **Bergheim BG**, Bräse S, Jung N, Özbek S.<br>
+  **A small molecule screen identifies novel inhibitors of mechanosensory nematocyst discharge in Hydra.**<br>
+  Sci Rep 11, 20627 (2021). [10.1038/s41598-021-99974-7](https://doi.org/10.1038/s41598-021-99974-7)
+
+**2020**<br>
+
+- Gornik S\*, **Bergheim BG\***, Morel B, Stamatakis A, Foulkes NS, Guse A. <br>
+  **Photoreceptor Diversification Accompanies the Evolution of Anthozoa.**<br>
+  Mol. Biol. Evol. 2020, Nov, doi: [10.1093/molbev/msaa304](https://doi.org/10.1093/molbev/msaa304) <span style="color:gray">(\*shared first authorship)</span>
+
+**2019**<br>
+
+- **Bergheim BG**, Özbek S. <br>
+  **Extracellular matrix and morphogenesis in cnidarians: a tightly knit relationship.**<br>
+  Essays Biochem. 2019 Sep 13;63(3):407-416. doi: [10.1042/EBC20190021](https://doi.org/10.1042/EBC20190021). PMID: 31462530
+  <br><br>
 
 ## Hobbies
 
