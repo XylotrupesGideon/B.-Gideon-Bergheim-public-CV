@@ -171,6 +171,10 @@ While I was in Uganda for my social volunteer service I aided a few Ugandan frie
 
 ## Publications
 
+**in Review**
+Bergheim BG, Cole AG, Rettel M, Stein F, Redl S, Hess MW, Ikmi A, Özbek S. <br>
+**Molecular dynamics of the matrisome across sea anemone life history**,  Manuskript in Review, eLife, TBD
+
 **2023**<br>
 
 - Veschgini M, Petersen HO, Suzuki R, Kling S, **Bergheim BG**, Abuillan W, Linke P, Kaufmann
@@ -199,12 +203,5 @@ While I was in Uganda for my social volunteer service I aided a few Ugandan frie
 - **Bergheim BG**, Özbek S. <br>
   **Extracellular matrix and morphogenesis in cnidarians: a tightly knit relationship.**<br>
   Essays Biochem. 2019 Sep 13;63(3):407-416. doi: [10.1042/EBC20190021](https://doi.org/10.1042/EBC20190021). PMID: 31462530
-  <br><br>
+  <br>
 
-## Hobbies
-
-**Drawing/Crafting** - I especially enjoy drawing animals in nature or at the zoo. I especially enjoy the required attention to details, good observation skills and patience.
-
-**Foraging for mushrooms** - A good way to get out into nature and learn about the world around us. Also the systematic identification of edible mushrooms requires analytical thinking and again close attention to details.
-
-**Swimming/Bouldering** - Is my cool down excercise after long work days and a great way of meditating and practicing mindfullness while also moving.
